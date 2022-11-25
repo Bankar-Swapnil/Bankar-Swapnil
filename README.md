@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swapnil Bankar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/divyanshusahu/divyanshusahu/main/developer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Bankar-Swapnil/Bankar-Swapnil/blob/main/swapnil.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bankar-swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="bankar-swapnil" /> </p>
 
 - 🔭 I’m currently working on **Angular, Firebase, HTML, CSS, Bootstrap**
