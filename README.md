@@ -24,7 +24,7 @@
 <div  margin-bottom="10px">
   <p><img align="left"  width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bankar-swapnil&show_icons=true&locale=en&layout=compact" alt="bankar-swapnil" /></p>
 
-<p>&nbsp;<img align="left" width="54%" src="https://github-readme-stats.vercel.app/api?username=bankar-swapnil&show_icons=true&locale=en" alt="bankar-swapnil" /></p>
+<p>&nbsp;<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=bankar-swapnil&show_icons=true&locale=en" alt="bankar-swapnil" /></p>
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bankar-swapnil&" alt="bankar-swapnil" /></p>
