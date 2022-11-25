@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/divyanshusahu/divyanshusahu/main/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bankar-swapnil&label=Profile%20views&color=0e75b6&style=flat" alt="bankar-swapnil" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Angular, Firebase, HTML, CSS, Bootstrap**
 
 - 🌱 I’m currently learning **Angular, Firebase**
