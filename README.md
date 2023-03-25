@@ -27,4 +27,9 @@
 <p>&nbsp;<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=bankar-swapnil&show_icons=true&locale=en" alt="bankar-swapnil" /></p>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bankar-swapnil&" alt="bankar-swapnil" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bankar-swapnil&" alt="bankar-swapnil" /></p> -->
+
+<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <h3 align="center">Watch a snake-eating🐍 my contribution graph on Github</h3>
+  <kbd> <img align="cenetr" alt="Coding" width="900" src="https://github.com/Bankar-Swapnil/Bankar-Swapnil/blob/main/github-contribution-grid-snake-dark.svg"></kbd> 
+ </p>
