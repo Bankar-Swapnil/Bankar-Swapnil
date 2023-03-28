@@ -32,13 +32,21 @@
 <h3 align="left">Status:</h3>
 <table>
   <tr>
-    <td><img  width="100%" src="https://github-readme-stats.vercel.app/api?username=bankar-swapnil&show_icons=true&locale=en" alt="bankar-swapnil" /></td>
-    <td><img   width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bankar-swapnil&show_icons=true&locale=en&layout=compact" alt="bankar-swapnil" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bankar-swapnil&" alt="bankar-swapnil" /></td>
+    <td><img  width="100%" src="https://github-readme-stats.vercel.app/api?username=bankar-swapnil&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="bankar-swapnil" /></td>
+    <td><img   width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bankar-swapnil&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="bankar-swapnil" /></td>
+
   </tr>
  </table>
+ 
+ <table>
+  <tr>
+    <td><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bankar-Swapnil&theme=github_dark&show_icons=true" /></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bankar-swapnil&theme=github_dark&show_icons=true" alt="bankar-swapnil" /></td>
+  </tr>
+ </table>
+ 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bankar-swapnil&" alt="bankar-swapnil" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bankar-swapnil&theme=github_dark&show_icons=true" alt="bankar-swapnil" /></p> -->
 <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <h3 align="center">Watch a snake-eating🐍 my contribution graph on Github</h3>
   <kbd> <img align="cenetr" alt="Coding" width="900" src="https://github.com/Bankar-Swapnil/Bankar-Swapnil/blob/main/github-contribution-grid-snake-dark.svg"></kbd> 
