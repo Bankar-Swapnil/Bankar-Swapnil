@@ -32,8 +32,9 @@
 <h3 align="left">Status:</h3>
 <table>
   <tr>
-    <td><img  width="100%" src="https://github-readme-stats.vercel.app/api?username=bankar-swapnil&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="bankar-swapnil" /></td>
-    <td><img   width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bankar-swapnil&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="bankar-swapnil" /></td>
+    <td><img  width="100%" 
+             src="https://github-readme-stats-sigma-five.vercel.app/api?username=bankar-swapnil&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="bankar-swapnil" /></td>
+    <td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bankar-swapnil&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="bankar-swapnil" /></td>
 
   </tr>
  </table>
